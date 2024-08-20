@@ -1,6 +1,7 @@
-## Sou Rosamaria Correia
+## Ola Seja bem vindo , Sou Rosamaria Correia
 
-- 🔭 sou Estudante do Alura
+- 🔭 Estou Cursando o Ensino medio
+- E tambem estou fazendo o Curso do alura 
 
-- 
+ 
 -->
