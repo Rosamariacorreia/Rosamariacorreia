@@ -1,7 +1,10 @@
-## Ola Seja bem vindo , Sou Rosamaria Correia
+## Ola Seja bem vindo 🤟
 
-- 🔭 Estou Cursando o Ensino medio
-- E tambem estou fazendo o Curso do alura 
-
+ Meu nome e Rosamaria Correia
  
--->
+- Estou estudando no alura
+- Utilizo aqui para guarda os meus projetos
+
+ ## Entre em contato comigo 📧
+
+ @kennedyrosamaria
